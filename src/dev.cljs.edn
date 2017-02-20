@@ -1,0 +1,3 @@
+{:require [ruminant.anim ruminant.colors ruminant.easing ruminant.scale]
+ :preloads [dirac.runtime.preload]}
+
