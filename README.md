@@ -34,3 +34,8 @@ the scheduler.
 ## LICENSE
 
 [MIT](LICENSE)
+
+## Contributors
+
+- [James Laver](https://github.com/jjl)
+- [Antonis Kalou](https://github.com/kalouantonis)
