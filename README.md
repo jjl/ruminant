@@ -30,3 +30,7 @@ the scheduler.
    :cursor (atom nil)}
    :duration 50])
 ```
+
+## LICENSE
+
+[MIT](LICENSE)
